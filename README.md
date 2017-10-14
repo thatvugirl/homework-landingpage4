@@ -1,1 +1,2 @@
 # homework-landingpage4
+SO. I decided it was best to make another repository so as to not mess up my previous coding. Pending better time management, I can refer back to my original coding and refine it without the leg up, but thank you for it!
